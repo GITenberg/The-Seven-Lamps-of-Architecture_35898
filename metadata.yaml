@@ -1,0 +1,34 @@
+_repo: The-Seven-Lamps-of-Architecture_35898
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ruskin, John
+    alias: Ruskin, J. (John)
+    birthdate: 1819
+    deathdate: 1900
+    gutenberg_agent_id: '359'
+    url: http://www.gutenberg.org/2009/agents/359
+    wikipedia: http://en.wikipedia.org/wiki/John_Ruskin
+description: In August of 1848, John Ruskin and his new bride visited northern France,
+  for the gifted young critic wished to write a book that would examine the essence
+  of Gothic architecture. By the following April, the book was finished. Titled The
+  Seven Lamps of Architecture, it was far more than a treatise on the Gothic style;
+  instead, it elaborated Ruskin's deepest convictions of the nature and role of architecture
+  and its aesthetics. The book was published to immediate acclaim and has since become
+  an acknowledged classic.
+gutenberg_issued: '2011-04-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35898'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Architecture'
+- !lcc 'NA'
+title: The Seven Lamps of Architecture
+url: http://www.gutenberg.org/ebooks/35898
